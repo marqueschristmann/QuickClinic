@@ -95,6 +95,7 @@ router.route("/update").put((req, res) => {
 
 // Login do clinica
 router.route("/login").post(async (req, res) => {
+	console.log("bateuAQUI");
 	try {
 		const username = req.body.username;
 
