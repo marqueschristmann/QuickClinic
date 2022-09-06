@@ -1,7 +1,7 @@
 import React, { useContext, useState } from 'react';
 import { Redirect, useHistory } from "react-router-dom";
 import { Container, Row, Col, Card, Form, CardHeader, CardBody, FormGroup, CardFooter, Button, Label, Input } from 'reactstrap'
-import axios from 'axios';
+import api from '../services/api';
 import { AuthContext } from '../Auth/AuthContext';
 
 const LoginForm = () => {
@@ -13,13 +13,12 @@ const LoginForm = () => {
 
 	async function login() {
 		try {
-			const res = await axios.post(
-				`${process.env.REACT_APP_SERVER_URL}/clinicas/login/`,
+			const res = await api.post( '/login',
 				{
 					username: username,
 					password: password
 				}
-			);
+			)
 			setStatus(res.status);
 
 			const token = res.data.token;
