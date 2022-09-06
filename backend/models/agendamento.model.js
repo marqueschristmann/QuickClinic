@@ -1,6 +1,7 @@
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
+
 const feedback = new Schema({
     given : {
         type : Boolean,
@@ -58,9 +59,12 @@ const agendamentoSchema = new Schema({
         type : String
     },
     feedback : feedback
-});
+})
 
 const Agendamento = mongoose.model('Agendamento', agendamentoSchema);
 const Feedback = mongoose.model('Feedback', feedback);
 
-module.exports = { Agendamento,  Feedback };
+module.exports = { 
+    Agendamento,
+     Feedback
+     };

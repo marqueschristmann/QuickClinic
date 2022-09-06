@@ -1,6 +1,6 @@
 const router = require('express').Router();
 const agendamentoImport = require("../models/agendamento.model");
-const { Agendamento, Feedback } = agendamentoImport;
+const { Agendamento,  Feedback } = agendamentoImport;
 
 router.route('/add-meet-link').put((req, res) => {
     const meetLink = req.body.meetLink;
