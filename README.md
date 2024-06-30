@@ -8,10 +8,10 @@ Sistema de agendamentos clínicos estudos React com Node.js
  
 # Para rodar servidor execute o comando abaixo em um terminal:😎
 
- front-end
+ front-end:
  yarn start
 
- back-end
+ back-end:
  yarn start
  
 # Link do Sistema Funcionando👍
