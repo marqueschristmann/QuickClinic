@@ -6,9 +6,7 @@ Sistema de agendamentos clínicos estudos React com Node.js
 
  yarn install 
  
- Para rodar servidor execute o comando abaixo em um terminal, ele está
- no conrtroller por que foi somente para estudos eu estou ciente que o certo
- seria colocar em um arquivo index para o servidor node por questões de boas praticas.😎
+# Para rodar servidor execute o comando abaixo em um terminal:😎
 
  front-end
  yarn start
