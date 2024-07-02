@@ -29,8 +29,8 @@ yarn start
 
 - cd Server
 
-yarn install
-yarn start
+yarn <br>install
+yarn <br> start
 
 ## Estrutura do Projeto
 
