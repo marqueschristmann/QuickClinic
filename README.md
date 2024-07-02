@@ -24,13 +24,13 @@ Para começar a trabalhar com o *QuickClinc*, siga os passos abaixo:
    
 - cd client
 
-yarn install
+yarn install <br>
 yarn start
 
 - cd Server
 
-yarn <br>install
-yarn <br> start
+yarn install <br>
+yarn  start
 
 ## Estrutura do Projeto
 
