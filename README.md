@@ -21,16 +21,12 @@ Para começar a trabalhar com o *QuickClinc*, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/quickclinc.git
    cd quickclinc
-   
-- cd client
-
-yarn install <br>
-yarn start
-
-- cd Server
-
-yarn install <br>
-yarn  start
+   - cd client <br>
+       yarn install <br>
+       yarn start <br>
+   - cd Server
+       yarn install <br>
+       yarn  start
 
 ## Estrutura do Projeto
 
@@ -57,6 +53,8 @@ quickclinc/
 ├── README.md               # Este arquivo
 └── yarn.lock               # Dependências do projeto
 
-## Contribuição
+
+
+# Contribuição
 Se você deseja contribuir para o QuickClinc, fique à vontade para enviar pull requests ou abrir issues para discutir melhorias e correções.
 
