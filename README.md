@@ -6,6 +6,8 @@
 
 O *QuickClinc* é uma aplicação de agendamento clínico desenvolvida para fins de estudo, utilizando as tecnologias **React** para o front-end e **Express** para o back-end. Este projeto visa demonstrar a construção de uma aplicação completa, desde a interface do usuário até a lógica do servidor.
 
+Demo: https://youtu.be/tD1bRcOLegw 
+
 ## Tecnologias Utilizadas
 
 - **Front-end:** React
