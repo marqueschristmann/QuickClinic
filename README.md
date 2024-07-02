@@ -53,8 +53,6 @@ quickclinc/
 ├── README.md               # Este arquivo
 └── yarn.lock               # Dependências do projeto
 
-
-
 # Contribuição
-Se você deseja contribuir para o QuickClinc, fique à vontade para enviar pull requests ou abrir issues para discutir melhorias e correções.
+**Se você deseja contribuir para o QuickClinc, fique à vontade para enviar pull requests ou abrir issues para discutir melhorias e correções.
 
