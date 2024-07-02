@@ -22,10 +22,10 @@ Para começar a trabalhar com o *QuickClinc*, siga os passos abaixo:
    git clone https://github.com/seu-usuario/quickclinc.git
    cd quickclinc
    - cd client <br>
-       yarn install <br>
-       yarn start <br>
+       yarn install
+       yarn start 
    - cd Server
-       yarn install <br>
+       yarn install 
        yarn  start
 
 ## Estrutura do Projeto
