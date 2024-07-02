@@ -21,7 +21,7 @@ Para começar a trabalhar com o *QuickClinc*, siga os passos abaixo:
    ```bash
    git clone https://github.com/seu-usuario/quickclinc.git
    cd quickclinc
-   - cd client <br>
+   - cd client
        yarn install
        yarn start 
    - cd Server
