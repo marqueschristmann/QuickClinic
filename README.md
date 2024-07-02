@@ -28,8 +28,6 @@ Para começar a trabalhar com o *QuickClinc*, siga os passos abaixo:
        yarn install 
        yarn  start
 
-# Contribuição
-**Se você deseja contribuir para o QuickClinc, fique à vontade para enviar pull requests ou abrir issues para discutir melhorias e correções.
 
 ## Estrutura do Projeto
 
@@ -56,3 +54,6 @@ quickclinc/
 ├── README.md               # Este arquivo
 └── yarn.lock               # Dependências do projeto
 
+
+# Contribuição
+**Se você deseja contribuir para o QuickClinc, fique à vontade para enviar pull requests ou abrir issues para discutir melhorias e correções.
